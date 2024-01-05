@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo Koivisto
 - 👀 I’m interested in software developement 
-- 🌱 I’m currently learning in Aalto university this is my second year as a programmer! My studies have been going exelently and my GPA is around 4. 
+- 🌱 I’m currently learning in Aalto university this is my second year as a programmer! My studies have been going excellently, and my GPA is around 4. 
 - 📫 You can best reach me at leo.koivisto@aalto.fi
 
 <!---

@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" alt="Description" height="300" width="6000" style="text-align: center;" />
 
 <h1 align="center">Hi 👋, I'm Leo Koivisto</h1>
-<h3 align="center">I'm a 22 years old Computer Science student from Aalto Univeristy.</h3>
+<h3 align="center">I'm a 22-years old Computer Science student from Aalto Univeristy.</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=LeoKoivisto&label=Profile%20views&color=0e75b6&style=flat" alt="LeoKoivisto" /> </p>
 
 

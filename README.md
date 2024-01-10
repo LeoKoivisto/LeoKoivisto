@@ -7,7 +7,7 @@
 
 - 👀 I’m extremely interested in coding, particularly in game development! 
 - 🌱 I’m currently learning Python and Scala! This is my second year as a programmer and my studies have been going excellently, my GPA is around 4. 
-- ⚡ Apart from coding, I love being outdoors. Some of my hobbies include downhill skiing, golf, and working out.
+- ⚡ Apart from coding, I love being outdoors. Some of my hobbies include downhill skiing, golf and working out.
 <img align="right" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 </div><h3 align="left">Connect with me:</h3>

@@ -1,4 +1,5 @@
 <img src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" alt="Description" height="300" width="6000" style="text-align: center;" />
+
 <h1 align="center">Hi 👋, I'm Leo Koivisto</h1>
 <h3 align="center">I'm a 22 years old Computer Science student from Aalto Univeristy.</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=LeoKoivisto&label=Profile%20views&color=0e75b6&style=flat" alt="LeoKoivisto" /> </p>
@@ -29,6 +30,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoKoivisto&langs_count=8&theme=dark" alt=LeoKoivisto />
+
+
+<img align="left" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoKoivisto&langs_count=8&theme=dark" alt=LeoKoivisto />
 

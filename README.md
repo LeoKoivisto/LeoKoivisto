@@ -5,9 +5,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=LeoKoivisto&label=Profile%20views&color=0e75b6&style=flat" alt="LeoKoivisto" /> </p>
 
 
-- 👀 I’m most interested in game developement!
+- 👀 I’m extremely interested in coding, particularly in game development! 
 - 🌱 I’m currently learning Python and Scala! This is my second year as a programmer and my studies have been going excellently, my GPA is around 4. 
-  
+- ⚡ Apart from coding, I love being outdoors. My hobbies are downhill skiing, golf, and working out.
 <img align="right" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <div> <a href="https://github.com/LeoKoivisto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>

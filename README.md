@@ -1,14 +1,13 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif" alt="Description" height="300" width="6000" style="text-align: center;" />
 <h1 align="center">Hi 👋, I'm Leo Koivisto</h1>
 <h3 align="center">I'm a 22 years old Computer Science student from Aalto Univeristy.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeoKoivisto&label=Profile%20views&color=0e75b6&style=flat" alt="LeoKoivisto" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=LeoKoivisto&label=Profile%20views&color=0e75b6&style=flat" alt="LeoKoivisto" /> </p>
 
 
 - 👀 I’m most interested in game developement!
 - 🌱 I’m currently learning Python and Scala! This is my second year as a programmer and my studies have been going excellently, my GPA is around 4. 
-- 📫 You can best reach me at leo.koivisto@aalto.fi
   
-<img aling="right" alt="coding" width="400" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif">
+<img align="right" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <div> <a href="https://github.com/LeoKoivisto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:Leo.koivisto@aalto.fi"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
